@@ -1,0 +1,41 @@
+# ignore all
+*
+
+# allow directory
+!*/
+
+# allow
+!/data
+
+!*.txt
+!*.md
+!*.mat
+#!*.jld2
+
+!*.jl
+!*.py
+!*.r
+!*.stan
+
+#!*.csv
+#!*.gif
+!*.c3d
+
+#!*.tex
+#!*.cls
+#!*.sty
+#!*.bib
+#!*.bst
+#!*.bbl
+#!*.log
+
+#!*.svg
+#!*.pdf
+#!*.png
+#!*.jpg
+#!*.jpeg
+#!*.ai
+
+!.gitignore
+!Project.toml
+output/
