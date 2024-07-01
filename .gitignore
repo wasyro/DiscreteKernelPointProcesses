@@ -17,9 +17,9 @@
 !*.r
 !*.stan
 
-#!*.csv
+!*.csv
 #!*.gif
-!*.c3d
+#!*.c3d
 
 #!*.tex
 #!*.cls
