@@ -1,5 +1,5 @@
 # DiscreteKernelPointProcesses
-Working examples of the paper entitled "A Family of Distributions of Random Subsets for Controlling Positive and Negative Dependence," by anonymous authors, submitted to AISTATS 2025.
+Working examples of the paper entitled "A Family of Distributions of Random Subsets for Controlling Positive and Negative Dependence," by Takahiro Kawashima & Hidetsu Hino, accepted at AISTATS 2025.
 
 # Working Directory
 Set your working directory at `scripts/`.
